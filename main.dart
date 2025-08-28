@@ -1,3 +1,10 @@
+/// Ito ay isang simpleng program na nag eevaluate ng final grade ng isang student base sa kanyang Assignment, Midterm, at Final Exam
+/// Kinacalculate nitoang weighted grade pagkatapos ay ipapakita ang name ng student final grade na naka format saisang decimal place kung "passed" or "failed".
+
+
+
+
+
 import 'dart:io';
 
 void main(){
